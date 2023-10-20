@@ -1,0 +1,26 @@
+.containerfilmes {
+    background-color: rgb(1, 1, 79);
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+h4 {
+    color: aliceblue;
+    text-align: center;
+}
+
+p {
+    color: aliceblue;
+    text-align: center;
+    width: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
