@@ -1,10 +1,28 @@
+/* html{
+    scroll-behavior: smooth;
+} */
+
+body{
+    background-color: black;
+}
+
+/* li:hover {
+    color: #e2a600;
+    } */
+
 .filmes {
-    background-color: rgb(1, 1, 79);
+    background-color: black;
     width: 95%;
     margin-right: auto;
     margin-left: auto;
     padding-top: 2%;
     padding-bottom: 2%;
+
+    border-style: solid;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 12px;
+    padding: 5px;
+
 }
 
 h4 {
@@ -35,3 +53,55 @@ h1 {
 .casas {
     color: black;
 }
+
+footer{
+    text-align: center;
+}
+
+h5{
+    color: white;
+    text-align: center;
+}
+
+.github{
+    width: 2%;
+}
+
+.refgit{
+    font-size: 1.2em;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+
+@media (max-width: 800px) {
+    .header {
+        flex-direction: column;
+    }
+
+    .col-6 {
+        width: 100%;
+    }
+
+    .Men{
+
+        display: flex;
+        flex-direction: column;
+
+    }
+}
+
+@media screen and (min-width:601px) {
+
+    header{
+      flex-direction: row;
+    }
+  
+
+}
+
+/* .menu ul li {
+    display: inline;
+    margin-left: 1%;
+} */
