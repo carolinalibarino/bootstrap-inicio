@@ -8,6 +8,8 @@ body{
 
 .menu{
     background-color: rgb(119, 119, 119);
+    position: fixed;
+    width: 100%;
 }
 
 li:hover {
@@ -119,10 +121,6 @@ h5{
 
 }
 
-/* .menu ul li {
-    display: inline;
-    margin-left: 1%;
-} */
 
 .dropdown-menu{
     background-color:rgb(119, 119, 119);
