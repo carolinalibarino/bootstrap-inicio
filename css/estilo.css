@@ -147,3 +147,71 @@ img{
     text-align: center;
 }
 
+.col-3{
+    color: white;
+    text-align: center;
+
+}
+
+.link{
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 3px #9f9f9f, 0 0 5px #ffffff;
+}
+
+.corvinal{
+    border-style: solid;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 12px;
+    padding: 5px;
+
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.grifinoria{
+    border-style: solid;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 12px;
+    padding: 5px;
+
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+}
+
+.lufalufa{
+    border-style: solid;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 12px;
+    padding: 5px;
+
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.sonserina{
+    border-style: solid;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 12px;
+    padding: 5px;
+
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
