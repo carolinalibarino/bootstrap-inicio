@@ -126,6 +126,19 @@ h6{
         flex-direction: column;
 
     }
+
+    .carousel-item{
+        width: auto;
+    }
+
+    .carousel-inner{
+        width: auto;
+    }
+
+    .carrossel{
+        width: 100%;
+    }
+
 }
 
 @media screen and (min-width:601px) {
@@ -277,11 +290,11 @@ h2{
     font-size: 1.2em;
 }
 
-.carrossel{
+/* .carrossel{
     width: 80%;
     align-items: center;
     text-align: center;
-}
+} */
 
 
 .textocasas{
@@ -294,7 +307,7 @@ p{
 
 .carousel-item{
     align-items: center;
-    text-align: center;
+    text-align: center; 
 }
 
 .hp{
