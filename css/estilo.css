@@ -266,3 +266,9 @@ h2{
 .fund{
     font-size: 1.2em;
 }
+
+.carrossel{
+    width: 80%;
+    align-items: center;
+    text-align: center;
+}
