@@ -84,7 +84,14 @@ footer{
 
 h5{
     color: white;
+    text-shadow: purple;
     text-align: center;
+}
+
+h6{
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
 }
 
 .github{
@@ -163,7 +170,10 @@ img{
 }
 
 .link{
-    color: rgb(255, 255, 255);
+    font-size: 1.2em;
+    text-decoration: none;
+    text-align: center;
+    color: white;
 }
 
 h2{
@@ -271,4 +281,24 @@ h2{
     width: 80%;
     align-items: center;
     text-align: center;
+}
+
+
+.textocasas{
+    font-size: 1.1em;
+}
+
+p{
+    font-size: 1.1em;
+}
+
+.carousel-item{
+    align-items: center;
+    text-align: center;
+}
+
+.hp{
+    align-items: center;
+    text-align: center;
+
 }
