@@ -10,6 +10,7 @@ body{
     background-color: rgb(119, 119, 119);
     position: fixed;
     width: 100%;
+    z-index: 1;
 }
 
 li:hover {
@@ -127,18 +128,10 @@ h6{
 
     }
 
-    .carousel-item{
+    .amem{
         width: auto;
+        
     }
-
-    .carousel-inner{
-        width: auto;
-    }
-
-    .carrossel{
-        width: 100%;
-    }
-
 }
 
 @media screen and (min-width:601px) {
