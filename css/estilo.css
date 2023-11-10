@@ -13,6 +13,10 @@ body{
     z-index: 1;
 }
 
+.hp{
+    width: 100%;
+}
+
 li:hover {
     color: #e2a600;
     }
